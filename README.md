@@ -4,4 +4,4 @@ The goal of this project is to forecast the sales of a chain of stores in Ecuado
   - Prophet
   - LightGBM
 
-! [image](https://github.com/agneselimbi/Time-Series-analysis-and-sales-prediction/blob/main/Screenshot.png)
+![image](https://github.com/agneselimbi/Time-Series-analysis-and-sales-prediction/blob/main/Screenshot.png)
